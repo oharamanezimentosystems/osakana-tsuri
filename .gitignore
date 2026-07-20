@@ -1,0 +1,42 @@
+# Dependencies & build
+node_modules/
+web/node_modules/
+web/functions/node_modules/
+web/dist/
+web/functions/lib/
+dist/
+*.local
+
+# Secrets & env
+.env
+web/.env
+**/.env
+!.env.example
+!**/.env.example
+
+# Logs / OS / editor
+logs/
+*.log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# Firebase local
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+ui-debug.log
+.firebaserc.local
+
+# Misc
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.gh-auth-out.txt
+.gh-auth-err.txt
+

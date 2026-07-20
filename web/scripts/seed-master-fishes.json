@@ -1,0 +1,47 @@
+{
+  "marukin": {
+    "name": "まるきん",
+    "rarity": "common",
+    "description": "ぽよぽよのお腹が自慢の金魚さん。見つめるだけでほっこりするよ。",
+    "image": "/assets/fish/marukin.png",
+    "weight": 45,
+    "minSizeCm": 5,
+    "maxSizeCm": 12
+  },
+  "fukufuku": {
+    "name": "ふくふくフグ",
+    "rarity": "common",
+    "description": "びっくりするとまるく膨らむけど、いつもニコニコ。とげもふわふわだよ。",
+    "image": "/assets/fish/fukufuku.png",
+    "weight": 35,
+    "minSizeCm": 6,
+    "maxSizeCm": 14
+  },
+  "ribon_demekin": {
+    "name": "りぼんデメキン",
+    "rarity": "uncommon",
+    "description": "おしゃれなりぼんがトレードマーク。ぱっちりおめめでこっちを見てるよ。",
+    "image": "/assets/fish/ribon_demekin.png",
+    "weight": 15,
+    "minSizeCm": 7,
+    "maxSizeCm": 15
+  },
+  "oukan_madai": {
+    "name": "おうかんマダイ",
+    "rarity": "rare",
+    "description": "小さな王冠をかぶったお姫さま。めでたい日に会えるかも…？",
+    "image": "/assets/fish/oukan_madai.png",
+    "weight": 4,
+    "minSizeCm": 10,
+    "maxSizeCm": 22
+  },
+  "hoshizora_jinbee": {
+    "name": "ほしぞらジンベエ",
+    "rarity": "legendary",
+    "description": "体にきらめく星たちが、夜空みたいにきれい。伝説の癒しオーラだよ。",
+    "image": "/assets/fish/hoshizora_jinbee.png",
+    "weight": 1,
+    "minSizeCm": 18,
+    "maxSizeCm": 40
+  }
+}
